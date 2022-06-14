@@ -1,0 +1,32 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D60C537A-501F-47CB-AB46-BC4058A04E57}|Default">
+  <MonoDevelop.Ide.ItemProperties.G3Transportes.WebApi PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="G3Transportes.WebApi/Controllers/Lancamento.cs">
+    <Files>
+      <File FileName="G3Transportes.WebApi/Controllers/Pedido.cs" Line="270" Column="54" />
+      <File FileName="G3Transportes.WebApi/Models/Pedido.cs" Line="60" Column="29" />
+      <File FileName="G3Transportes.WebApi/Mappings/Pedido.cs" Line="39" Column="46" />
+      <File FileName="G3Transportes.WebApi/Controllers/Lancamento.cs" Line="284" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="G3Transportes" expanded="True">
+            <Node name="G3Transportes.WebApi" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jobvitral/Projetos/Ecolinx/g3-transportes/server/G3Transportes.WebApi/Controllers/CentroCusto.cs" relfile="G3Transportes.WebApi/Controllers/CentroCusto.cs" line="175" column="1" />
+      <Breakpoint file="/Users/jobvitral/Projetos/Ecolinx/g3-transportes/server/G3Transportes.WebApi/Controllers/Lancamento.cs" relfile="G3Transportes.WebApi/Controllers/Lancamento.cs" line="376" column="1" />
+      <Breakpoint file="/Users/jobvitral/Projetos/Ecolinx/g3-transportes/server/G3Transportes.WebApi/Controllers/Conciliacao.cs" relfile="G3Transportes.WebApi/Controllers/Conciliacao.cs" line="230" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
